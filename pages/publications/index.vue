@@ -30,13 +30,13 @@ export default {
   },
   computed: {
     pubs() {
-      return this.$store.state.bookchapters
+      return this.$store.state.publications.bookchapters
     },
     reviewed() {
-      return this.$store.state.journals
+      return this.$store.state.publications.journals
     },
     nonreviewed() {
-      return this.$store.state.otherpubs
+      return this.$store.state.publications.otherpubs
     },
   },
 }
