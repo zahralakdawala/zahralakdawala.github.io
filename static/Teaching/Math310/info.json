@@ -1,0 +1,21 @@
+{
+    "head": "Math",
+    "link": "math4418",
+    "title": "Numerical Linear Algebra",
+    "fullTitle": "Applied/Numerical Linear Algebra",
+    "text": "Covering the essential numerical techniques to solve large system of equations arising from real world problems",
+    "modules": [
+        {
+            "title": "Module 1: Fundamentals of Linear Algebra",
+            "text": "This module will review the basic concepts of Linear Algebra",
+            "content": [
+                {
+                    "type": "PDF",
+                    "link": "/Teaching/Math4418/Spring2021 - Class Schedule.pdf",
+                    "title": "Lecture"
+                }
+            ]
+        }
+    ],
+    "img": "https://391795-1232725-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2015/01/algebra.jpg"
+}
