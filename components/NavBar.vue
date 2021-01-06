@@ -2,7 +2,7 @@
   <v-card class="overflow-hidden">
     <v-app-bar color="white" elevate-on-scroll>
       <!-- <v-app-bar-nav-icon></v-app-bar-nav-icon> -->
-      <img class="mr-3" src="/website-content/logo.jpg" height="40" />
+      <img class="mr-3" src="/logo.jpg" height="40" />
       <v-toolbar-title>MATH MEETS SOCIETY</v-toolbar-title>
 
       <v-spacer></v-spacer>
@@ -81,14 +81,12 @@ export default {
     head() {
       const heads = new Set()
       this.$store.state.data.forEach((x) => heads.add(x.head))
-      console.log(heads)
+
       return Array.from(heads)
     },
     child() {
       return (h) => {
-        console.log(h)
         const a = this.$store.state.data.filter((x) => x.head === h)
-        console.log(a)
         return a.map((x) => x)
       }
     },

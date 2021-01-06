@@ -1,4 +1,5 @@
 export const state = () => ({
+  carousel: ['https://cdn.hipwallpaper.com/i/31/39/TeaFc4.jpg'],
   bookchapters: [
     'R.Ahrens, Z. Lakdawala, A.Voigt, V. Wiedmeyer, V. John, and K. S. S.Le Borne, “Numerical methods for coupled population balance systems applied to the dynamical simulation of crystallization processes", in Dynamic Flowsheet Simulation of SolidsProcesses, Springer, 2020 (In Print)',
     'O. Iliev, R. Kirsch, Z. Lakdawala, S. Rief, and K. Steiner, “Modeling and simulation of filtration processes", in Currents in Industrial Mathematics, pp. 163–228, SpringerBerlin, 2015',

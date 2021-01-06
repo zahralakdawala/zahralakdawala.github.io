@@ -1,10 +1,12 @@
 <template>
-  <v-carousel cycle height="400" hide-delimiter-background show-arrows-on-hover>
-    <v-carousel-item
-      v-for="(slide, i) in dummy"
-      :key="i"
-      :src="'https://picsum.photos/800/900?random=' + i"
-    >
+  <v-carousel
+    v-if="images.length > 0"
+    cycle
+    height="400"
+    hide-delimiter-background
+    show-arrows-on-hover
+  >
+    <v-carousel-item v-for="(slide, i) in images" :key="i" :src="slide">
     </v-carousel-item>
   </v-carousel>
 </template>
@@ -14,6 +16,13 @@ export default {
     return {
       dummy: ['hi', 'aa', 5, 8, 79, 8],
     }
+  },
+  props: {
+    images: {
+      default() {
+        return []
+      },
+    },
   },
 }
 </script>

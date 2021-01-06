@@ -2,7 +2,7 @@
   <div>
     <NavBar></NavBar>
     <v-container>
-      <Carousel></Carousel>
+      <Carousel :images="images"></Carousel>
       <v-row>
         <v-col cols="8">
           <slot class="main"></slot>
@@ -24,6 +24,13 @@ export default {
     NavBar,
     Carousel,
     Contact,
+  },
+  props: {
+    images: {
+      default() {
+        return []
+      },
+    },
   },
 }
 </script>

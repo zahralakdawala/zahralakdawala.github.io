@@ -45,11 +45,14 @@ export default {
     return {
       links: [
         {
-          link: 'https://fb.com',
-          icon: 'mdi-facebook',
+          link: 'https://scholar.google.de/citations?user=20rjyYMAAAAJ&hl',
+          icon: 'mdi-school',
         },
-        { link: 'https://gitlab.com', icon: 'mdi-gitlab' },
-        { link: 'https://linkedin.com', icon: 'mdi-linkedin' },
+        { link: 'https://gitlab.com/zahra.lakdawala/', icon: 'mdi-gitlab' },
+        {
+          link: ' https://www.linkedin.com/in/zahra-lakdawala-57b16a73/',
+          icon: 'mdi-linkedin',
+        },
       ],
       items: [
         // goto for more icons https://vuetifyjs.com/en/features/icons/#material-design-icons
@@ -79,6 +82,9 @@ export default {
 }
 </style>
 <style scoped>
+.contact {
+  margin-top: 50px;
+}
 .profilepic {
   position: absolute;
   left: calc(50% - 50px);

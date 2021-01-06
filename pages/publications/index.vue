@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Gen>
+    <Gen :images="$store.state.publications.carousel">
       <!-- <h5>Finite volume schemes</h5>
       <ul class="mb-5">
         <li>Nonlinear advection-diffusion equations</li>

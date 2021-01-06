@@ -1,5 +1,5 @@
 <template>
-  <Gen
+  <Gen :images="page.carousel"
     ><h3 class="text-h4 mb-4 mt-5">{{ page.title }}</h3>
     <div class="overview">
       <p class="text-overline">Overview</p>
@@ -18,7 +18,6 @@ export default {
   },
   computed: {
     page() {
-      console.log(this.$route.params.slug)
       return this.$store.state.teaching.data.filter(
         (x) => x.link === this.$route.params.slug
       )[0]
