@@ -4,6 +4,7 @@
       <v-expansion-panel v-for="mod in data.modules" :key="mod.title">
         <v-expansion-panel-header>{{ mod.title }}</v-expansion-panel-header>
         <v-expansion-panel-content>
+          <p class="info">{{ mod.text }}</p>
           <v-row>
             <v-col v-for="x in mod.content" :key="x.title + x.link">
               <v-card max-width="330" elevation="0">
@@ -57,5 +58,10 @@ export default {
 }
 .link {
   text-decoration: none;
+}
+.info {
+  font-size: 12px;
+  opacity: 0.8;
+  font-style: italic;
 }
 </style>

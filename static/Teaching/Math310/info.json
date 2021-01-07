@@ -15,6 +15,17 @@
                     "title": "Lecture"
                 }
             ]
+        },
+        {
+            "title": "Module 1: Fundamentals of Linear Algebra",
+            "text": "This module will review the basic concepts of Linear Algebra",
+            "content": [
+                {
+                    "type": "PDF",
+                    "link": "/Teaching/Math4418/Spring2021 - Class Schedule.pdf",
+                    "title": "Lecture"
+                }
+            ]
         }
     ],
     "carousel": [
