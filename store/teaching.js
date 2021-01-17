@@ -1,4 +1,4 @@
-import Math310 from '~/static/teaching/math310/info'
+import Math4418 from '~/static/teaching/math4418/info'
 import Math449 from '~/static/teaching/math449/info'
 export const state = () => ({
   carousel: [
@@ -7,7 +7,7 @@ export const state = () => ({
     'https://ewscripps.brightspotcdn.com/71/51/9f9a47f94cde966d73ee713a0152/school-books-young-adult-education.jpg',
   ],
 
-  data: [Math310, Math449],
+  data: [Math4418, Math449],
 })
 
 export const mutations = {}
