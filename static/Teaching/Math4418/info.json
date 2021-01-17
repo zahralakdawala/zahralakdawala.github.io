@@ -13,6 +13,16 @@
                     "type": "PDF",
                     "link": "/Teaching/Math4418/Spring2021 - Class Schedule.pdf",
                     "title": "Lecture"
+                },
+                {
+                    "type": "Video",
+                    "link": "/Teaching/Math4418/Spring2021 - Class Schedule.pdf",
+                    "title": "Some youtube video"
+                },
+                {
+                    "type": "Other",
+                    "link": "/Teaching/Math4418/Spring2021 - Class Schedule.pdf",
+                    "title": "Some misc link"
                 }
             ]
         },
