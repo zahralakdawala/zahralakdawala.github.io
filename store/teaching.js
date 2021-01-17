@@ -1,5 +1,5 @@
-import Math310 from '~/static/Teaching/Math310/info'
-import Math449 from '~/static/Teaching/Math449/info'
+import Math310 from '~/static/teaching/math310/info'
+import Math449 from '~/static/teaching/math449/info'
 export const state = () => ({
   carousel: [
     'https://wallpaperaccess.com/full/344959.jpg',
