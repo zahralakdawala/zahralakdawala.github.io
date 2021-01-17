@@ -1,0 +1,39 @@
+{
+    "head": "Math",
+    "link": "math310",
+    "title": "SomeCourse",
+    "fullTitle": "Applied Some Course",
+    "text": "Some Description",
+    "img": "https://391795-1232725-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2015/01/algebra.jpg",
+    "carousel": [
+        "https://www.trnicely.net/wp-content/uploads/2020/11/Algebra-and-number-theory-1.jpg",
+        "https://www.trnicely.net/wp-content/uploads/2020/11/Algebra-and-number-theory-1.jpg"
+    ],
+    "modules": [
+        {
+            "title": "Module 1 - Fundamentals of Linear Algebra",
+            "content": [
+                {
+                    "title": "dummy",
+                    "link": "/teaching/math310/Module 1 - Fundamentals of Linear Algebra/dummy.pdf",
+                    "type": "PDF"
+                },
+                {
+                    "title": "teaching",
+                    "link": "/teaching/math310/Module 1 - Fundamentals of Linear Algebra/teaching.py",
+                    "type": "PYTHON"
+                }
+            ]
+        },
+        {
+            "title": "Outline",
+            "content": [
+                {
+                    "title": "MATH310ODE Lakdawala",
+                    "link": "/teaching/math310/Outline/MATH310ODE_Lakdawala.pdf",
+                    "type": "PDF"
+                }
+            ]
+        }
+    ]
+}

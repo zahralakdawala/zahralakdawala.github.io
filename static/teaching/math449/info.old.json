@@ -1,0 +1,108 @@
+{
+    "head": "Math",
+    "link": "math449",
+    "title": "Quant Finance",
+    "fullTitle": "Math 449/Finn 422/Math 524 Quantitative Finance/Advanced Quantitative Finance",
+    "text": "This course is designed to develop quantitative skills that students require to implement financial theories. As an ever-increasing number of financial services firms are applying sophisticated mathematical models in their trading, pricing, risk and asset management functions, the need for more specialized and advanced courses has emerged where students and working professionals can acquire the knowledge they need to competently and responsibly perform these functions. This course can be considered as a first course in this stream. ",
+    "modules": [
+        {
+            "title": "Course Outline",
+            "text": "",
+            "content": [
+                {
+                    "type": "PDF",
+                    "link": "/Teaching/Math449/CourseOutline.pdf",
+                    "title": "Course Outline"
+                }
+            ]
+        },
+        {
+            "title": "Module 0: Review of Probability, Differential Equations and Linear Algebra",
+            "text": "",
+            "content": [
+                {
+                    "type": "PDF",
+                    "link": "/Teaching/Math4418/Spring2021 - Class Schedule.pdf",
+                    "title": "Lecture"
+                }
+            ]
+        },
+        {
+            "title": "Module 1: Understanding Randomness: Random walks, Brownian motion and Wiener process",
+            "text": "",
+            "content": [
+                {
+                    "type": "PDF",
+                    "link": "/Teaching/Math4418/Spring2021 - Class Schedule.pdf",
+                    "title": "Lecture"
+                }
+            ]
+        },
+        {
+            "title": "Module 2: Stochastic calculus",
+            "text": "",
+            "content": [
+               
+            ]
+        },
+        {
+            "title": "Module 3: Understanding Markets, Derivatives, Options",
+            "text": "",
+            "content": [
+                
+            ]
+        },
+        {
+            "title": "Module 4: Black Scholes, Binomial and CRR",
+            "text": "",
+            "content": [
+                
+            ]
+        },
+        {
+            "title": "Module 5: Finite Difference Methods",
+            "text": "",
+            "content": [
+                
+            ]
+        },
+        {
+            "title": "Module 6: Monte Carlo Simulations",
+            "text": "",
+            "content": [
+                
+            ]
+        },
+        {
+            "title": "Module 7: Portfolio Management and Optimization",
+            "text": "",
+            "content": [
+                
+            ]
+        },
+        {
+            "title": "Module 8: Capital Asset Pricing Model (CAPM), Fixed Income Securities and Bond pricing",
+            "text": "",
+            "content": [
+                
+            ]
+        },
+        {
+            "title": "Reference Readings",
+            "text": "",
+            "content": [
+                {
+                    "type": "PDF",
+                    "link": "/Teaching/Math449/paul-wilmott-on-quantitative-finance.pdf",
+                    "title": "P.Wilmott"
+                }
+            ]
+        }
+    ],
+    "carousel": [
+        "https://wallpaperaccess.com/full/1104816.jpg",
+        "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://wallpapercave.com/wp/wp2446262.jpg"
+    ],
+    "img": "https://wallpaperaccess.com/full/1393728.jpg"
+}
