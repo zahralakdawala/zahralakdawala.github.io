@@ -2,8 +2,10 @@
 import os
 import json
 import glob
-#%%
+#%% Globals
 
+#%%
+print("This programs creates an appropriate info.json for each course inside the static teaching module and also takes care of teaching.js store")
 
 LINK = '/teaching'
 
@@ -50,11 +52,15 @@ def module_setup(y):
         data['content'] += [temp]
     return data
 
+def parse(link):
+    f = open(link,'r').read().split('\n')
+    f = list(filter(lambda x: len(x.strip()) > 0 and x[0] != "#",f))
+    return [x.strip() for x in f]
+
 for x in glob.glob(COURSES):
     # files = glob.glob(os.path.join(x,'*'))
     data = {}
-    info = open(BASE_LINK(x),'r').read().split('\n')
-    info = list(filter(lambda x: x[0] != "#",info))
+    info = parse(BASE_LINK(x))
     data['head'] = info[0]
     data['link'] = info[1]
     data['title'] = info[2]
@@ -72,3 +78,43 @@ for x in glob.glob(COURSES):
     # y = open(,'w').write(json.dumps(data))
 
 #%%
+STORE = '../store/teaching.js'
+CAROUSEL = 'teaching.txt'
+
+
+# %%
+def fix_imports(c):
+    path = fix_path(os.path.join(c,'info')).replace('..','~')
+    module = os.path.basename(c).capitalize()
+    return module,path
+
+def import_string(data):
+    final = ''
+    for x in data:
+        final += 'import {} from \'{}\'\n'.format(x[0],x[1])
+    return final
+
+def create_state(imports,modules,carousel):
+    return ("""{}
+export const state = () => ({{
+carousel: [
+    {}
+  ],
+
+  data: [{}],
+}})""".format(imports,carousel,modules))
+
+# create_state("HI","lol","aa")
+
+#%%
+
+imports = [fix_imports(c) for c in glob.glob(COURSES)]
+modules = ', '.join([m for m,i in imports])
+carousel = ',\n    '.join(['\'{}\''.format(x) for x in parse(CAROUSEL)])
+state = create_state(import_string(imports),modules,carousel)
+with open(STORE,'w') as f:
+    f.write(state)
+# %%
+
+# %%
+print("Done")

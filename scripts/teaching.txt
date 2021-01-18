@@ -1,0 +1,8 @@
+# This is comments
+# This files contains all the carousel image links to be added in the teaching page
+# teaching.py parses it and adds these in the store/teaching.js automatically
+# change the following links if or append any more links without quotation to add or edit links.
+https://wallpaperaccess.com/full/344959.jpg
+https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dGVhY2hpbmd8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80
+https://ewscripps.brightspotcdn.com/71/51/9f9a47f94cde966d73ee713a0152/school-books-young-adult-education.jpg
+ 
