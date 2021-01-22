@@ -42,6 +42,8 @@ export default {
       return (x) => {
         if (x.type === 'PDF') {
           return 'https://i.stack.imgur.com/Zpt8n.jpg'
+        } else if (x.type === 'PYTHON') {
+          return 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/1024px-Text-x-python.svg.png'
         } else if (x.type === 'Video') {
           return 'https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/file-video-icon.png'
         }

@@ -27,7 +27,18 @@
         },
         {
             "title": "Module 1 - Understanding Randomness Random walks, Brownian motion and Wiener process",
-            "content": []
+            "content": [
+                {
+                    "title": "Lab1 Getting Started",
+                    "link": "/teaching/math449/Module 1 - Understanding Randomness Random walks, Brownian motion and Wiener process/Lab1_Getting_Started.py",
+                    "type": "PYTHON"
+                },
+                {
+                    "title": "Lab2 Histograms And Normal Distributions",
+                    "link": "/teaching/math449/Module 1 - Understanding Randomness Random walks, Brownian motion and Wiener process/Lab2_Histograms_And_Normal_Distributions.py",
+                    "type": "PYTHON"
+                }
+            ]
         },
         {
             "title": "Module 2 - Stochastic calculus",
@@ -61,8 +72,8 @@
             "title": "Reference Readings",
             "content": [
                 {
-                    "title": "paul-wilmott-on-quantitative-finance",
-                    "link": "/teaching/math449/Reference Readings/paul-wilmott-on-quantitative-finance.pdf",
+                    "title": "paul wilmott on quantitative finance",
+                    "link": "/teaching/math449/Reference Readings/paul_wilmott_on_quantitative_finance.pdf",
                     "type": "PDF"
                 }
             ]

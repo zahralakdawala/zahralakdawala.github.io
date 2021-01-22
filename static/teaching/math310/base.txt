@@ -4,13 +4,17 @@ Math
 # Course code
 math310
 # Short title
-SomeCourse
+Ordinary Differential Equations
 # Long title
-Applied Some Course
+Ordinary Differential Equations
 # Description
-Some Description
+The construction of mathematical models to address real-world problems has been one of the most important aspects of each of the branches
+of science. Many mathematical models represented as equations involving functions and their derivatives. Such equations are called differential
+equations. Equations with one independent variable are called ordinary differential equations. The course will demonstrate the usefulness of
+ordinary differential equations for modelling physical and other phenomena. Complementary mathematical approaches for their solution will be
+presented, including analytical methods, graphical analysis and numerical techniques. We will use Python for analysing certain numerical
+techniques and viewing the solutions of certain equations in an illustrative way.
 #cover image
-https://391795-1232725-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2015/01/algebra.jpg
+https://www.wallpapertip.com/wmimgs/228-2280323_7211.png
 # list of carousel images
-https://www.trnicely.net/wp-content/uploads/2020/11/Algebra-and-number-theory-1.jpg
-https://www.trnicely.net/wp-content/uploads/2020/11/Algebra-and-number-theory-1.jpg
+https://www.wallpapertip.com/wmimgs/228-2280323_7211.png

@@ -1,10 +1,10 @@
-#%%
+# %%
 import os
 import json
 import glob
-#%% Globals
+# %% Globals
 
-#%%
+# %%
 print("This programs creates an appropriate info.json for each course inside the static teaching module and also takes care of teaching.js store")
 
 LINK = '/teaching'
@@ -12,24 +12,29 @@ LINK = '/teaching'
 PATH = "../static/teaching"
 BASE = 'base.txt'
 JSON = 'info.json'
-COURSES = os.path.join(PATH,'*')
+COURSES = os.path.join(PATH, '*')
 
 # VIDEO_LINK = lambda x: os.path.join(x,'video.txt')
 # OTHER_LINK = lambda x: os.path.join(x,'other.txt')
-BASE_LINK = lambda x: os.path.join(x,BASE)
-JSON_LINK = lambda x: os.path.join(x,JSON)
+
+
+def BASE_LINK(x): return os.path.join(x, BASE)
+def JSON_LINK(x): return os.path.join(x, JSON)
+
 
 def fix_path(x):
-    return x.replace('\\','/')
+    return x.replace('\\', '/')
 
 
 def get_modules(x):
-    modules = glob.glob(os.path.join(x,'*'))
-    
-    return list(filter(lambda x: os.path.isdir(x),modules))
+    modules = glob.glob(os.path.join(x, '*'))
+
+    return list(filter(lambda x: os.path.isdir(x), modules))
+
 
 PDF = ['pdf']
 PYTHON = ['py']
+
 
 def type_setter(path):
     ext = os.path.basename(path).split('.')[-1]
@@ -39,23 +44,26 @@ def type_setter(path):
         return 'PYTHON'
     return 'OTHER'
 
+
 def module_setup(y):
-    files = glob.glob(os.path.join(y,'*'))
+    files = glob.glob(os.path.join(y, '*'))
     data = {}
     data['title'] = os.path.basename(y)
     data['content'] = []
     for x in files:
         temp = {}
-        temp['title'] = os.path.basename(x).split('.')[0].replace('_',' ')
-        temp['link'] = fix_path(x.replace(PATH,LINK))
+        temp['title'] = os.path.basename(x).split('.')[0].replace('_', ' ')
+        temp['link'] = fix_path(x.replace(PATH, LINK))
         temp['type'] = type_setter(x)
         data['content'] += [temp]
     return data
 
+
 def parse(link):
-    f = open(link,'r').read().split('\n')
-    f = list(filter(lambda x: len(x.strip()) > 0 and x[0] != "#",f))
+    f = open(link, 'r').read().split('\n')
+    f = list(filter(lambda x: len(x.strip()) > 0 and x[0] != "#", f))
     return [x.strip() for x in f]
+
 
 for x in glob.glob(COURSES):
     # files = glob.glob(os.path.join(x,'*'))
@@ -68,33 +76,35 @@ for x in glob.glob(COURSES):
     data['text'] = info[4]
     data['img'] = info[5]
     data['carousel'] = info[6:]
-    
+
     modules = get_modules(x)
-    
+
     data['modules'] = [module_setup(module) for module in modules]
-    
+
     with open(JSON_LINK(x), 'w') as outfile:
         json.dump(data, outfile, indent=4)
     # y = open(,'w').write(json.dumps(data))
 
-#%%
+# %%
 STORE = '../store/teaching.js'
 CAROUSEL = 'teaching.txt'
 
 
 # %%
 def fix_imports(c):
-    path = fix_path(os.path.join(c,'info')).replace('..','~')
+    path = fix_path(os.path.join(c, 'info')).replace('..', '~')
     module = os.path.basename(c).capitalize()
-    return module,path
+    return module, path
+
 
 def import_string(data):
     final = ''
     for x in data:
-        final += 'import {} from \'{}\'\n'.format(x[0],x[1])
+        final += 'import {} from \'{}\'\n'.format(x[0], x[1])
     return final
 
-def create_state(imports,modules,carousel):
+
+def create_state(imports, modules, carousel):
     return ("""{}
 export const state = () => ({{
 carousel: [
@@ -102,17 +112,18 @@ carousel: [
   ],
 
   data: [{}],
-}})""".format(imports,carousel,modules))
+}})""".format(imports, carousel, modules))
 
 # create_state("HI","lol","aa")
 
-#%%
+# %%
+
 
 imports = [fix_imports(c) for c in glob.glob(COURSES)]
-modules = ', '.join([m for m,i in imports])
+modules = ', '.join([m for m, i in imports])
 carousel = ',\n    '.join(['\'{}\''.format(x) for x in parse(CAROUSEL)])
-state = create_state(import_string(imports),modules,carousel)
-with open(STORE,'w') as f:
+state = create_state(import_string(imports), modules, carousel)
+with open(STORE, 'w') as f:
     f.write(state)
 # %%
 
