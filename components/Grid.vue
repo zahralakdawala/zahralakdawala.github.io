@@ -38,7 +38,7 @@ export default {
         if (this.project) {
           s = 'project'
         }
-        return this.$route.path + s + '/' + link
+        return this.$route.path + s + '/' + link + '/'
       }
     },
   },
