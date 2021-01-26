@@ -34,11 +34,10 @@ export default {
   computed: {
     link() {
       return (link) => {
-        let s = ''
         if (this.project) {
-          s = 'project'
+          return '/project/' + link + '/'
         }
-        return this.$route.path + s + '/' + link + '/'
+        return '/teaching/' + link + '/'
       }
     },
   },
