@@ -1,8 +1,6 @@
 <template>
   <Gen :images="$store.state.carousel"
-    ><h3 class="text-h4 mb-4 mt-5">
-      Zahra's Teaching, Research & Innovation Lab
-    </h3>
+    ><h3 class="text-h4 mb-4 mt-5">My Teaching, Research & Innovation Lab</h3>
     <p>
       My goal is to further develop mathematics as a key technology, give
       innovative impetus and implement it in practice together with industry
