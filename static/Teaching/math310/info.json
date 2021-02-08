@@ -1,0 +1,63 @@
+{
+    "head": "Math",
+    "link": "math310",
+    "title": "Ordinary Differential Equations",
+    "fullTitle": "Ordinary Differential Equations",
+    "text": "The construction of mathematical models to address real-world problems has been one of the most important aspects of each of the branches",
+    "img": "of science. Many mathematical models represented as equations involving functions and their derivatives. Such equations are called differential",
+    "carousel": [
+        "equations. Equations with one independent variable are called ordinary differential equations. The course will demonstrate the usefulness of",
+        "ordinary differential equations for modelling physical and other phenomena. Complementary mathematical approaches for their solution will be",
+        "presented, including analytical methods, graphical analysis and numerical techniques. We will use Python for analysing certain numerical",
+        "techniques and viewing the solutions of certain equations in an illustrative way.",
+        "https://www.wallpapertip.com/wmimgs/228-2280323_7211.png",
+        "https://www.wallpapertip.com/wmimgs/228-2280323_7211.png"
+    ],
+    "modules": [
+        {
+            "title": "Course Outline",
+            "content": [
+                {
+                    "title": "MATH310-OrdinaryDifferentialEquations Lakdawala",
+                    "link": "/teaching/math310/Course Outline/MATH310-OrdinaryDifferentialEquations_Lakdawala.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Module 1",
+            "content": [
+                {
+                    "title": "Day1 Intro",
+                    "link": "/teaching/math310/Module 1/Day1_Intro.pdf",
+                    "type": "PDF"
+                },
+                {
+                    "title": "Day2 PicardsTheorem",
+                    "link": "/teaching/math310/Module 1/Day2_PicardsTheorem.pdf",
+                    "type": "PDF"
+                },
+                {
+                    "title": "Module1",
+                    "link": "/teaching/math310/Module 1/Module1.pdf",
+                    "type": "PDF"
+                },
+                {
+                    "title": "PlottingFunctions",
+                    "link": "/teaching/math310/Module 1/PlottingFunctions.py",
+                    "type": "PYTHON"
+                }
+            ]
+        },
+        {
+            "title": "References",
+            "content": [
+                {
+                    "title": "Simons-Krantz",
+                    "link": "/teaching/math310/References/Simons-Krantz.pdf",
+                    "type": "PDF"
+                }
+            ]
+        }
+    ]
+}
