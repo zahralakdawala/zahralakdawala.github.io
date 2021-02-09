@@ -1,6 +1,6 @@
 # Comments
 # Subject
-Math
+Matha
 # Course code
 math449
 # Short title
