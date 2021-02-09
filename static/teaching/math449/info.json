@@ -1,0 +1,92 @@
+{
+    "head": "Math",
+    "link": "math449",
+    "title": "Quant Finance",
+    "fullTitle": "Math 449/Finn 422/Math 524 Quantitative Finance/Advanced Quantitative Finance",
+    "text": "This course is designed to develop quantitative skills that students require to implement financial theories. As an ever-increasing number of financial services firms are applying sophisticated mathematical models in their trading, pricing, risk and asset management functions, the need for more specialized and advanced courses has emerged where students and working professionals can acquire the knowledge they need to competently and responsibly perform these functions. This course can be considered as a first course in this stream.",
+    "img": "https://wallpaperaccess.com/full/1393728.jpg",
+    "carousel": [
+        "https://wallpaperaccess.com/full/1104816.jpg",
+        "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://wallpapercave.com/wp/wp2446262.jpg"
+    ],
+    "modules": [
+        {
+            "title": "Course Outline",
+            "content": [
+                {
+                    "title": "CourseOutline",
+                    "link": "/teaching/math449/Course Outline/CourseOutline.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Module 0 - Review of Probability, Differential Equations and Linear Algebra",
+            "content": []
+        },
+        {
+            "title": "Module 1 - Understanding Randomness Random walks, Brownian motion and Wiener process",
+            "content": [
+                {
+                    "title": "Day2 QF",
+                    "link": "/teaching/math449/Module 1 - Understanding Randomness Random walks, Brownian motion and Wiener process/Day2_QF.pdf",
+                    "type": "PDF"
+                },
+                {
+                    "title": "Lab1 Getting Started",
+                    "link": "/teaching/math449/Module 1 - Understanding Randomness Random walks, Brownian motion and Wiener process/Lab1_Getting_Started.py",
+                    "type": "PYTHON"
+                },
+                {
+                    "title": "Lab2 Histograms And Normal Distributions",
+                    "link": "/teaching/math449/Module 1 - Understanding Randomness Random walks, Brownian motion and Wiener process/Lab2_Histograms_And_Normal_Distributions.py",
+                    "type": "PYTHON"
+                },
+                {
+                    "title": "Module 1",
+                    "link": "/teaching/math449/Module 1 - Understanding Randomness Random walks, Brownian motion and Wiener process/Module_1.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Module 2 - Stochastic calculus",
+            "content": []
+        },
+        {
+            "title": "Module 3 - Understanding Markets, Derivatives, Options",
+            "content": []
+        },
+        {
+            "title": "Module 4 - Black Scholes, Binomial and CRR",
+            "content": []
+        },
+        {
+            "title": "Module 5 - Finite Difference Methods",
+            "content": []
+        },
+        {
+            "title": "Module 6 - Monte Carlo Simulations",
+            "content": []
+        },
+        {
+            "title": "Module 7 - Portfolio Management and Optimization",
+            "content": []
+        },
+        {
+            "title": "Module 8 - Capital Asset Pricing Model (CAPM), Fixed Income Securities and Bond pricing",
+            "content": []
+        },
+        {
+            "title": "Reference Readings",
+            "content": [
+                {
+                    "title": "paul wilmott on quantitative finance",
+                    "link": "/teaching/math449/Reference Readings/paul_wilmott_on_quantitative_finance.pdf",
+                    "type": "PDF"
+                }
+            ]
+        }
+    ]
+}
