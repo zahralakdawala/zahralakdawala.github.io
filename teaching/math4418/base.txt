@@ -1,0 +1,15 @@
+# Comments
+# Subject
+Math
+# Course code
+math4418
+# Short title
+Numerical Linear Algebra
+# Long title
+Applied/Numerical Linear Algebra
+# Description
+Covering the essential numerical techniques to solve large system of equations arising from real world problems
+#cover image
+https://391795-1232725-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2015/01/algebra.jpg
+# list of carousel images
+https://www.trnicely.net/wp-content/uploads/2020/11/Algebra-and-number-theory-1.jpg
