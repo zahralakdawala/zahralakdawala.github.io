@@ -1,38 +1,23 @@
-## Welcome to Zahra Lakdawala's Homepage
+# Welcome to Zahra Lakdawala's Homepage
+
+![Image](/images/lakdawala_zahra.jpg)
+
+I am a math enthusiast: an educator, mentor, researcher and am passionate about developing mathematics as a key driver to technological innovation. 
+
+## Research
+My research areas lie in numerical analysis, scientific computing and modeling. research focuses on numerical methods for partial differential equations and for integro-differential equations (finite volume, finite difference, and finite element discretization), computational fluid dynamics (space and time discretization and iterative methods, algebraic multigrid solvers), numerical simulation of (Newtonian) flow and (contamination) transport in plain and (rigid, poro-elastic) porous media.ng.
+
+## Teaching
+[Numerical Analysis]()<br />
+[Numerical Linear Algebra]()<br />
+[Quantitative Finance]()<br />
+[Financial Modeling and Analysis]()<br />
+[Linear Algebra]()<br />
+[Ordinary Differential Equations]()<br />
 
 
-You can use the [editor on GitHub](https://github.com/zahralakdawala/zahralakdawala.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Projects
+I implement math into practice together with industry partners. Methodologically, my research areas focus on modeling, simulation and optimization. Integral parts of the projects are consulting and implementation, support in the application of high-performance computing and providing tailor-made software solutions. I develop simulation software along with using existing ones, often in cooperation with leading software companies. Nowadays, companies of all sizes use simulations on regular bases which gives them benefit in terms of product innovation and quality assurance. My clients and users are mainly in the automotive, textile, finance and environmental enginnering.
+### Contact
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zahralakdawala/zahralakdawala.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[contact](https://support.github.com/contact)
