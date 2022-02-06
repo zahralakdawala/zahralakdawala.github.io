@@ -33,5 +33,8 @@ software/packages.
 [Wellposedness, Conditioning and Stability](/teaching/numerical_analysis/WCStability.pdf)<br />
 
 
-### Code
+### Python Labs
+
+[TaylorPolynomials.py](/teaching/numerical_analysis/python_labs/TaylorPolynomials.py)<br />
 [FloatingPointArithmetic.py](/teaching/numerical_analysis/python_labs/FloatingPointArithmetic.py)<br />
+
