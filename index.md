@@ -1,6 +1,9 @@
 # Welcome to Zahra Lakdawala's Homepage
+<p align="center">
+  <img src="/images/lakdawala_zahra.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
 
-![Image](/images/lakdawala_zahra.jpg)
+
 
 I am a math enthusiast: an educator, mentor, researcher and am passionate about developing mathematics as a key driver to technological innovation. 
 
