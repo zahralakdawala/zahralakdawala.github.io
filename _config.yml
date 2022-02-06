@@ -8,4 +8,4 @@ github_username: zahralakdawala
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-toc
+
