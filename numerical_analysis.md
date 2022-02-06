@@ -13,5 +13,19 @@ In this course, we introduce the fundamental concepts behind numerical mathemati
 - To gain experience of obtaining numerical solutions to selected physical problems using suitable
 software/packages.
 
+#### Primary Text:
+- Atkinson and Han: Elementary Numerical Analysis, 3. Edition
+
+#### Reference text:
+- Burden and Faires : Numerical Analysis.
+- Yaning Liu: Numerical Analysis with Python.
+- R.H. Bartels, J.C. Beatty, and B.A. Barsky: An Introduction to Splines for Use in Computer Graphics and Geometric Modeling.
+- Jean-Paul Berrut and Lloyd N. Trefethen: Barycentric Lagrange Interpolation.
+- IEEE Standard for Floating-Point Arithmetic. https://doi.org/10.1109/ieeestd.2008.4610935
+- Gene H. Golub and Charles F. Van Loan. Matrix Computations. Johns Hopkin
+- W. Hackbusch. The Concept of Stability in Numerical Mathematics.
+- V.I. Krylov. Approximate Calculation of Integrals.
+- M. Overton. Numerical Computing with IEEE Floating Point Arithmetic.
+
 ### Lecture notes
 ### Code
