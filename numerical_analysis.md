@@ -1,4 +1,4 @@
-# Numerical Analysis
+## Numerical Analysis
 
 ## About the course
 It is nearly impossible to argue why numerics is not important as it exists everywhere in the field of science and engineering, predictive analysis, decision making, risk mitigation etc. Nowadays, digital twin creation is leading the industrial and business world as a form of revolutionary technology to optimize a certain product, process or
