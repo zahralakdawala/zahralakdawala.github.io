@@ -1,4 +1,4 @@
-# Welcome to Zahra Lakdawala's Homepage
+# Zahra Lakdawala
 <p align="center">
   <img src="/images/lakdawala_zahra.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
