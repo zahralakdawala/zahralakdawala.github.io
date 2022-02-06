@@ -27,5 +27,11 @@ software/packages.
 - V.I. Krylov. Approximate Calculation of Integrals.
 - M. Overton. Numerical Computing with IEEE Floating Point Arithmetic.
 
-### Lecture notes
+### Course Material
+[Taylor Series Approximation](/numerical_analysis/TaylorSeries.pdf)<br />
+[Floating Point Arithmetic](/numerical_analysis/lecture_notes/FloatingPointArithmetic.pdf)<br />
+[Wellposedness, Conditioning and Stability](/numerical_analysis/WCStability.pdf)<br />
+
+
 ### Code
+[FloatingPointArithmetic.py](/numerical_analysis/python_labs/FloatingPointArithmetic.py)<br />
