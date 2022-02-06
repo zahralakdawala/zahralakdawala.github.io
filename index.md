@@ -1,6 +1,4 @@
----
-title: Zahra Lakdawala
---- 
+# Zahra Lakdawala 
 
 Email: zahralakda@gmail.com
 <p align="center">
