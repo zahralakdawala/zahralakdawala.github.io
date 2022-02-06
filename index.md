@@ -23,3 +23,7 @@ My research areas lie in numerical analysis, scientific computing and modeling. 
 ## Projects
 I implement math into practice together with industry partners. Methodologically, my research areas focus on modeling, simulation and optimization. Integral parts of the projects are consulting and implementation, support in the application of high-performance computing and providing tailor-made software solutions. I develop simulation software along with using existing ones, often in cooperation with leading software companies. Nowadays, companies of all sizes use simulations on regular bases which gives them benefit in terms of product innovation and quality assurance. My clients and users are mainly in the automotive, textile, finance and environmental enginnering.
 
+## Press
+[DAWN news: Remembering Maryam Mirzakhani](https://www.dawn.com/authors/6948/zahra-lakdawala)<br />
+[Particle Magazine: Fluidized Bed Crystallizer](/press/Particles_CuresHeadaches.pdf) <br />
+[External Case Study of Simulating Filter Elements by IBS-Filtran](https://www.ibs-filtran.com/fileadmin/template/download/presse/simulation-filtration-applications.pdf)<br />
