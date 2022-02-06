@@ -28,10 +28,10 @@ software/packages.
 - M. Overton. Numerical Computing with IEEE Floating Point Arithmetic.
 
 ### Course Material
-[Taylor Series Approximation](/numerical_analysis/TaylorSeries.pdf)<br />
-[Floating Point Arithmetic](/numerical_analysis/lecture_notes/FloatingPointArithmetic.pdf)<br />
-[Wellposedness, Conditioning and Stability](/numerical_analysis/WCStability.pdf)<br />
+[Taylor Series Approximation](/teaching/numerical_analysis/TaylorSeries.pdf)<br />
+[Floating Point Arithmetic](/teaching/numerical_analysis/lecture_notes/FloatingPointArithmetic.pdf)<br />
+[Wellposedness, Conditioning and Stability](/teaching/numerical_analysis/WCStability.pdf)<br />
 
 
 ### Code
-[FloatingPointArithmetic.py](/numerical_analysis/python_labs/FloatingPointArithmetic.py)<br />
+[FloatingPointArithmetic.py](/teaching/numerical_analysis/python_labs/FloatingPointArithmetic.py)<br />
