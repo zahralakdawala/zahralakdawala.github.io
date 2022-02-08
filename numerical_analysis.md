@@ -39,6 +39,6 @@ software/packages.
 
 [TaylorPolynomials.py](/teaching/numerical_analysis/python_labs/TaylorPolynomials.py)<br />
 [FloatingPointArithmetic.py](/teaching/numerical_analysis/python_labs/FloatingPointArithmetic.py)<br />
-[FunctionEvaluationConditionNumber.py](/teaching/numerical_analysis/python_labs/FunctionEvaluationConditionNumber.py)<\br>
-[MutiplicationConditionNumbers.py](/teaching/numerical_analysis/python_labs/MultiplicationConditionNumbers.py)<\br>
+[FunctionEvaluationConditionNumber.py](/teaching/numerical_analysis/python_labs/FunctionEvaluationConditionNumber.py)<br />
+[MutiplicationConditionNumbers.py](/teaching/numerical_analysis/python_labs/MultiplicationConditionNumbers.py)<br />
 
