@@ -32,7 +32,7 @@ software/packages.
 ### Course Material
 [Taylor Series Approximation](/teaching/numerical_analysis/TaylorSeries.pdf)<br />
 [Floating Point Arithmetic](/teaching/numerical_analysis/lecture_notes/FloatingPointArithmetic.pdf)<br />
-[Wellposedness, Conditioning and Stability](/teaching/numerical_analysis/WCStability.pdf)<br />
+[Wellposedness, Conditioning and Stability](/teaching/numerical_analysis/lecture_notes/Wellposedness_Conditioning_Stability.pdf)<br />
 
 
 ### Python Labs
