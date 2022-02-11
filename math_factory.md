@@ -1,3 +1,7 @@
+---
+title: Digital and Numerical Factory
+---
+
 <p align="center">
   <img src="/images/flow_membrane.png?raw=true" alt="Sublime's custom image"/>
 </p>
