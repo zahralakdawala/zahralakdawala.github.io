@@ -2,6 +2,11 @@
 title: Zahra Lakdawala
 ---
 
+Associate Professor, Mathematics
+
+Specialization: Industrial and Applied Mathematics
+
+Founder & CEO: [Digital and Numerical Math Factory](/math_factory.md)
 
 Email: zahralakda@gmail.com
 <p align="center">
@@ -12,7 +17,7 @@ Email: zahralakda@gmail.com
 I am a math enthusiast: an educator, mentor, researcher and am passionate about developing mathematics as a key driver to technological innovation. 
 
 ## Research
-My research areas lie in numerical analysis, scientific computing and modeling. research focuses on numerical methods for partial differential equations and for integro-differential equations (finite volume, finite difference, and finite element discretization), computational fluid dynamics (space and time discretization and iterative methods, algebraic multigrid solvers), numerical simulation of (Newtonian) flow and (contamination) transport in plain and (rigid, poro-elastic) porous media.ng.
+My research areas lie in numerical and statistical analysis, scientific computing and modeling with a focus on machine learning, digital mathematics, numerical methods for partial differential equations and for integro-differential equations (finite volume, finite difference, and finite element discretization), computational fluid dynamics (space and time discretization and iterative methods, algebraic multigrid solvers), numerical simulation of (Newtonian) flow and (contamination) transport in plain and (rigid, poro-elastic) porous media.
 
 ## Teaching
 [Numerical Analysis](/numerical_analysis.md)<br />
@@ -24,7 +29,7 @@ My research areas lie in numerical analysis, scientific computing and modeling. 
 
 
 ## Projects
-I implement math into practice together with industry partners. Methodologically, my research areas focus on modeling, simulation and optimization. Integral parts of the projects are consulting and implementation, support in the application of high-performance computing and providing tailor-made software solutions. I develop simulation software along with using existing ones, often in cooperation with leading software companies. Nowadays, companies of all sizes use simulations on regular bases which gives them benefit in terms of product innovation and quality assurance. My clients and users are mainly in the automotive, textile, finance and environmental enginnering.
+I implement math into practice together with industry and research partners. Methodologically, my research areas focus on modeling, simulation, machine learning and optimization and sets its path for digital twin frameworks. Integral parts of the projects are consulting and implementation, support in the application of high-performance computing and providing tailor-made software solutions. I develop simulation software along with using existing ones, often in cooperation with leading software companies. Nowadays, companies of all sizes use simulations on regular bases which gives them benefit in terms of product innovation and quality assurance. My clients and users are mainly in the automotive, textile, finance and environmental enginnering. Some samples of my work can be found here: [Digital and Numerical Math Factory](/math_factory.md)
 
 ## Press
 [DAWN news: Remembering Maryam Mirzakhani](https://www.dawn.com/authors/6948/zahra-lakdawala)<br />
