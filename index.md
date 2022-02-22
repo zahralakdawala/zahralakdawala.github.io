@@ -2,7 +2,7 @@
 title: Zahra Lakdawala
 ---
 
-Associate Professor of Applied Mathematics at LUMS University
+Ph.D. Applied & Industrial Mathematics
 
 Founder & CEO: [Digital and Numerical Math Factory](/math_factory.md)
 
