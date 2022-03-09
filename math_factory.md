@@ -9,5 +9,5 @@ title: Digital and Numerical Math Factory
 
 The Digital and Numerical Math Factory has two objectives: 
 - to provide free practices for learning math from a numerical point of view. We have created examples of different applications of the topics included in undergraduate engineering math courses. We chose Python to implement the concepts because it is the state-of-the-art software. It comes with an added advantage that it can be easily translated to other preferred programming languages, such as C++, Julia and/or MATLAB. 
-- to provide services to industry and service professionals digitize and use mathematics as the key-driver towards innovation, optimization and digitization. 
+- to provide services to industry and service professionals to digitize and use mathematics as the key-driver towards innovation, optimization and digitization. 
 
