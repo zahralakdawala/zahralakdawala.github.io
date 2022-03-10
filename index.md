@@ -20,12 +20,13 @@ I am a math enthusiast: an educator, mentor, researcher and am passionate about 
 My research areas lie in numerical and statistical analysis, scientific computing and modeling with a focus on machine learning, digital mathematics, numerical methods for partial differential equations and for integro-differential equations (finite volume, finite difference, and finite element discretization), computational fluid dynamics (space and time discretization and iterative methods, algebraic multigrid solvers), numerical simulation of (Newtonian) flow and (contamination) transport in plain and (rigid, poro-elastic) porous media.
 
 ## Teaching
-[Numerical Analysis](./teaching/numerical_analysis/numerical_analysis.md)<br />
-[Numerical Linear Algebra](https://zahralakdawala.github.io/teaching/numerical_la/numericalLinearAlgebra.html)<br />
-[Quantitative Finance](https://zahralakdawala.github.io/teaching/quant_finance/quantFinance.html)<br />
-[Financial Modeling and Analysis](https://zahralakdawala.github.io/teaching/financialModeling/financial_modeling.html)<br />
 [Linear Algebra](https://zahralakdawala.github.io/teaching/la/linear_algebra.html)<br />
 [Ordinary Differential Equations](https://zahralakdawala.github.io/teaching/odes/ode.html)<br />
+[Numerical Analysis](./teaching/numerical_analysis/numerical_analysis.md)<br />
+[Numerical Linear Algebra](https://zahralakdawala.github.io/teaching/numerical_la/numericalLinearAlgebra.html)<br />
+[Financial Modeling and Analysis](https://zahralakdawala.github.io/teaching/financialModeling/financial_modeling.html)<br />
+[Quantitative Finance](https://zahralakdawala.github.io/teaching/quant_finance/quantFinance.html)<br />
+
 
 
 ## Projects
