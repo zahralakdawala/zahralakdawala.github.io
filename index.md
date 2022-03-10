@@ -20,7 +20,7 @@ I am a math enthusiast: an educator, mentor, researcher and am passionate about 
 My research areas lie in numerical and statistical analysis, scientific computing and modeling with a focus on machine learning, digital mathematics, numerical methods for partial differential equations and for integro-differential equations (finite volume, finite difference, and finite element discretization), computational fluid dynamics (space and time discretization and iterative methods, algebraic multigrid solvers), numerical simulation of (Newtonian) flow and (contamination) transport in plain and (rigid, poro-elastic) porous media.
 
 ## Teaching
-[Numerical Analysis](/numerical_analysis.md)<br />
+[Numerical Analysis](/teaching/numerical_analysis.md)<br />
 [Numerical Linear Algebra]()<br />
 [Quantitative Finance]()<br />
 [Financial Modeling and Analysis]()<br />
