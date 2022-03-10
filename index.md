@@ -21,11 +21,11 @@ My research areas lie in numerical and statistical analysis, scientific computin
 
 ## Teaching
 [Numerical Analysis](./teaching/numerical_analysis/numerical_analysis.md)<br />
-[Numerical Linear Algebra]()<br />
-[Quantitative Finance]()<br />
+[Numerical Linear Algebra](https://zahralakdawala.github.io/teaching/numerical_la/numericalLinearAlgebra.html)<br />
+[Quantitative Finance](https://zahralakdawala.github.io/teaching/quant_finance/quantFinance.html)<br />
 [Financial Modeling and Analysis](https://zahralakdawala.github.io/teaching/financialModeling/financial_modeling.html)<br />
-[Linear Algebra]()<br />
-[Ordinary Differential Equations]()<br />
+[Linear Algebra](https://zahralakdawala.github.io/teaching/la/linear_algebra.html)<br />
+[Ordinary Differential Equations](https://zahralakdawala.github.io/teaching/odes/ode.html)<br />
 
 
 ## Projects
