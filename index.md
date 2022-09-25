@@ -28,14 +28,11 @@ My research interests are diverse and I'd group them in the following areas:
 - Almost all my work and research has a computational base and most code is written in Python and C++
 
 ## Teaching
-[Linear Algebra](https://zahralakdawala.github.io/teaching/la/linear_algebra.html)<br />
 [Ordinary Differential Equations](https://zahralakdawala.github.io/teaching/odes/ode.html)<br />
 [Numerical Analysis](./teaching/numerical_analysis/numerical_analysis.html)<br />
 [Numerical Linear Algebra](https://zahralakdawala.github.io/teaching/numerical_la/numericalLinearAlgebra.html)<br />
 [Financial Modeling and Analysis](https://zahralakdawala.github.io/teaching/financialModeling/financial_modeling.html)<br />
 [Quantitative Finance](https://zahralakdawala.github.io/teaching/quant_finance/quantFinance.html)<br />
-
-
 
 ## Projects
 I implement math into practice together with industry and research partners. Methodologically, my research areas focus on modeling, simulation, machine learning and optimization and sets its path for digital twin frameworks. Integral parts of the projects are consulting and implementation, support in the application of high-performance computing and providing tailor-made software solutions. I develop simulation software along with using existing ones, often in cooperation with leading software companies. Nowadays, companies of all sizes use simulations on regular bases which gives them benefit in terms of product innovation and quality assurance. My clients and users are mainly stemming from areas of automotive, textile, finance and environmental research. Some samples of my work can be found here: [Digital and Numerical Math Factory](/math_factory.md)
